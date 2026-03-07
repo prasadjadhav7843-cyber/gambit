@@ -3,13 +3,8 @@ from .bimatrix import (
     battle_of_the_sexes,
     matching_pennies,
     coordination_game,
-    rock_paper_scissors
+    rock_paper_scissors,
+    ranking_game,
+    sgc_game
 )
 
-__all__ = [
-    "prisoners_dilemma",
-    "battle_of_the_sexes",
-    "matching_pennies",
-    "coordination_game",
-    "rock_paper_scissors"
-]
